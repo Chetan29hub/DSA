@@ -9,4 +9,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0983-minimum-cost-for-tickets](https://github.com/Chetan29hub/project/tree/master/0983-minimum-cost-for-tickets) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/Chetan29hub/project/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
