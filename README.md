@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetan29hub/project/tree/master/0004-median-of-two-sorted-arrays) |
 | [0983-minimum-cost-for-tickets](https://github.com/Chetan29hub/project/tree/master/0983-minimum-cost-for-tickets) |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Chetan29hub/project/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -39,4 +40,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetan29hub/project/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Chetan29hub/project/tree/master/2022-convert-1d-array-into-2d-array) |
+## Simulation
+|  |
+| ------- |
+| [2022-convert-1d-array-into-2d-array](https://github.com/Chetan29hub/project/tree/master/2022-convert-1d-array-into-2d-array) |
 <!---LeetCode Topics End-->
