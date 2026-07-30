@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/Chetan29hub/project/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetan29hub/project/tree/master/0013-roman-to-integer) |
+| [0796-rotate-string](https://github.com/Chetan29hub/project/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -53,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Chetan29hub/project/tree/master/0566-reshape-the-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Chetan29hub/project/tree/master/2022-convert-1d-array-into-2d-array) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Chetan29hub/project/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
