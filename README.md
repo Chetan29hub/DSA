@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetan29hub/project/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/Chetan29hub/project/tree/master/0035-search-insert-position) |
 | [0566-reshape-the-matrix](https://github.com/Chetan29hub/project/tree/master/0566-reshape-the-matrix) |
+| [0905-sort-array-by-parity](https://github.com/Chetan29hub/project/tree/master/0905-sort-array-by-parity) |
 | [0983-minimum-cost-for-tickets](https://github.com/Chetan29hub/project/tree/master/0983-minimum-cost-for-tickets) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Chetan29hub/project/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Dynamic Programming
@@ -58,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/Chetan29hub/project/tree/master/0796-rotate-string) |
+## Two Pointers
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Chetan29hub/project/tree/master/0905-sort-array-by-parity) |
+## Sorting
+|  |
+| ------- |
+| [0905-sort-array-by-parity](https://github.com/Chetan29hub/project/tree/master/0905-sort-array-by-parity) |
 <!---LeetCode Topics End-->
