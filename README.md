@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Chetan29hub/project/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Chetan29hub/project/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Chetan29hub/project/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetan29hub/project/tree/master/0013-roman-to-integer) |
@@ -67,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0905-sort-array-by-parity](https://github.com/Chetan29hub/project/tree/master/0905-sort-array-by-parity) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Chetan29hub/project/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Chetan29hub/project/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
