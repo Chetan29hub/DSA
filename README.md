@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Chetan29hub/project/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetan29hub/project/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Chetan29hub/project/tree/master/0029-divide-two-integers) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Chetan29hub/project/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -78,4 +79,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Chetan29hub/project/tree/master/0002-add-two-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/Chetan29hub/project/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
