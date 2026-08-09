@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Chetan29hub/project/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetan29hub/project/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Chetan29hub/project/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Chetan29hub/project/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/Chetan29hub/project/tree/master/0292-nim-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Chetan29hub/project/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Hash Table
@@ -36,11 +37,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Chetan29hub/project/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetan29hub/project/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Chetan29hub/project/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Chetan29hub/project/tree/master/0067-add-binary) |
 | [0796-rotate-string](https://github.com/Chetan29hub/project/tree/master/0796-rotate-string) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Chetan29hub/project/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/Chetan29hub/project/tree/master/0067-add-binary) |
 ## Binary Search
 |  |
 | ------- |
@@ -59,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Chetan29hub/project/tree/master/0067-add-binary) |
 | [0566-reshape-the-matrix](https://github.com/Chetan29hub/project/tree/master/0566-reshape-the-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Chetan29hub/project/tree/master/2022-convert-1d-array-into-2d-array) |
 ## String Matching
