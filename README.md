@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Chetan29hub/project/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Chetan29hub/project/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Chetan29hub/project/tree/master/0035-search-insert-position) |
 | [0566-reshape-the-matrix](https://github.com/Chetan29hub/project/tree/master/0566-reshape-the-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Chetan29hub/project/tree/master/0905-sort-array-by-parity) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0031-next-permutation](https://github.com/Chetan29hub/project/tree/master/0031-next-permutation) |
 | [0905-sort-array-by-parity](https://github.com/Chetan29hub/project/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
