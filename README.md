@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetan29hub/project/tree/master/0005-longest-palindromic-substring) |
 | [0983-minimum-cost-for-tickets](https://github.com/Chetan29hub/project/tree/master/0983-minimum-cost-for-tickets) |
 ## Math
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetan29hub/project/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Chetan29hub/project/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Chetan29hub/project/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/Chetan29hub/project/tree/master/0058-length-of-last-word) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetan29hub/project/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Chetan29hub/project/tree/master/0031-next-permutation) |
 | [0905-sort-array-by-parity](https://github.com/Chetan29hub/project/tree/master/0905-sort-array-by-parity) |
 ## Sorting
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Chetan29hub/project/tree/master/0561-array-partition) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Chetan29hub/project/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
