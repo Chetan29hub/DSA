@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Chetan29hub/project/tree/master/0014-longest-common-prefix) |
 | [0031-next-permutation](https://github.com/Chetan29hub/project/tree/master/0031-next-permutation) |
 | [0035-search-insert-position](https://github.com/Chetan29hub/project/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/Chetan29hub/project/tree/master/0042-trapping-rain-water) |
 | [0561-array-partition](https://github.com/Chetan29hub/project/tree/master/0561-array-partition) |
 | [0566-reshape-the-matrix](https://github.com/Chetan29hub/project/tree/master/0566-reshape-the-matrix) |
 | [0905-sort-array-by-parity](https://github.com/Chetan29hub/project/tree/master/0905-sort-array-by-parity) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chetan29hub/project/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/Chetan29hub/project/tree/master/0042-trapping-rain-water) |
 | [0983-minimum-cost-for-tickets](https://github.com/Chetan29hub/project/tree/master/0983-minimum-cost-for-tickets) |
 ## Math
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Chetan29hub/project/tree/master/0005-longest-palindromic-substring) |
 | [0031-next-permutation](https://github.com/Chetan29hub/project/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Chetan29hub/project/tree/master/0042-trapping-rain-water) |
 | [0905-sort-array-by-parity](https://github.com/Chetan29hub/project/tree/master/0905-sort-array-by-parity) |
 ## Sorting
 |  |
@@ -137,4 +140,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Chetan29hub/project/tree/master/0014-longest-common-prefix) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Chetan29hub/project/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Chetan29hub/project/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
